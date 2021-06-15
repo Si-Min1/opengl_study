@@ -1,0 +1,17 @@
+﻿  OpenGL.cpp
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  OpenGL.vcxproj -> C:\Users\rlaxo_000\source\repos\OpenGL\Debug\OpenGL.exe

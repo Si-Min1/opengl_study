@@ -1,0 +1,135 @@
+﻿  pch.cpp
+  3D.cpp
+  boxbox.cpp
+  cube.cpp
+c:\users\rlaxo_000\source\repos\opengl\opengl\cube.cpp(109): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\cube.cpp(109): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\cube.cpp(109): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\cube.cpp(197): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  move.cpp
+  move3Dball.cpp
+  OpenGL.cpp
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(299): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(353): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\rlaxo_000\source\repos\opengl\opengl\opengl.cpp(407): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+3D.obj : error LNK2005: _main이(가) 3D.obj에 이미 정의되어 있습니다.
+cube.obj : error LNK2005: "float theta" (?theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+cube.obj : error LNK2005: "float phi" (?phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: _main이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+move.obj : error LNK2005: "float radius" (?radius@@3MA)이(가) cube.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: _main이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl MySpecial(int,int,int)" (?MySpecial@@YAXHHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+boxbox.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ)이(가) boxbox.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float LookAtx" (?LookAtx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float LookAty" (?LookAty@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float LookAtz" (?LookAtz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float ballx" (?ballx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float bally" (?bally@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float ballz" (?ballz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float bmx" (?bmx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float bmy" (?bmy@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float bmz" (?bmz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float grav" (?grav@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "int mus" (?mus@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "int mfs" (?mfs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "int mbs" (?mbs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "int mls" (?mls@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "int mrs" (?mrs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float theta" (?theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float phi" (?phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float delta_theta" (?delta_theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float delta_phi" (?delta_phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float start_theta" (?start_theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float start_phi" (?start_phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float Radius" (?Radius@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float i" (?i@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float (* ver)[19][3]" (?ver@@3PAY1BD@2MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float (* ver1)[19][3]" (?ver1@@3PAY1BD@2MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float * light_position" (?light_position@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float * light_ambient" (?light_ambient@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float * light_diffuse" (?light_diffuse@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+move3Dball.obj : error LNK2005: "float * light_specular" (?light_specular@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: _main이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl MySpecial(int,int,int)" (?MySpecial@@YAXHHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl checkbutton(void)" (?checkbutton@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl gravity(void)" (?gravity@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveR(void)" (?moveR@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveL(void)" (?moveL@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveBack(void)" (?moveBack@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveFront(void)" (?moveFront@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveUp(void)" (?moveUp@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl CamMove(float,float,float)" (?CamMove@@YAXMMM@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl Camera_setting(void)" (?Camera_setting@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl DrawShape(void)" (?DrawShape@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl DrawFloor(void)" (?DrawFloor@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl axis(void)" (?axis@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl CirclePoint(void)" (?CirclePoint@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float LookAtx" (?LookAtx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float LookAty" (?LookAty@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float LookAtz" (?LookAtz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float grav" (?grav@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float bmx" (?bmx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float bmy" (?bmy@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float bmz" (?bmz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float ballx" (?ballx@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float bally" (?bally@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float ballz" (?ballz@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "int mus" (?mus@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "int mfs" (?mfs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "int mbs" (?mbs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "int mls" (?mls@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "int mrs" (?mrs@@3HA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float theta" (?theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float phi" (?phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float delta_theta" (?delta_theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float delta_phi" (?delta_phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float start_theta" (?start_theta@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float start_phi" (?start_phi@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float Radius" (?Radius@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float i" (?i@@3MA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * light_position" (?light_position@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * light_ambient" (?light_ambient@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * light_diffuse" (?light_diffuse@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * light_specular" (?light_specular@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * mat_ambdif" (?mat_ambdif@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * mat_spc" (?mat_spc@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * mat_shn" (?mat_shn@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * fl_ambdif" (?fl_ambdif@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * fl_spc" (?fl_spc@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * fl_shn" (?fl_shn@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * q_ambdif" (?q_ambdif@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * q_spc" (?q_spc@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+OpenGL.obj : error LNK2005: "float * q_shn" (?q_shn@@3PAMA)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: _main이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl MySpecial(int,int,int)" (?MySpecial@@YAXHHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl UpSpecial(int,int,int)" (?UpSpecial@@YAXHHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl gravity(void)" (?gravity@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl checkbutton(void)" (?checkbutton@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveR(void)" (?moveR@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveL(void)" (?moveL@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveBack(void)" (?moveBack@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveFront(void)" (?moveFront@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl moveUp(void)" (?moveUp@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl DrawShape(void)" (?DrawShape@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+3D.obj : error LNK2005: "void __cdecl CirclePoint(void)" (?CirclePoint@@YAXXZ)이(가) 3D.obj에 이미 정의되어 있습니다.
+C:\Users\rlaxo_000\source\repos\OpenGL\Release\OpenGL.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
